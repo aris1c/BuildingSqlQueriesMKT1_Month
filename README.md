@@ -1,0 +1,2 @@
+# BuildingSqlQueriesMKT1_Month
+CUBE_MKT1_MONTH
